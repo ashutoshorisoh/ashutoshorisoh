@@ -7,6 +7,13 @@
    - What-Text: A web-based chat app using React.js and Tailwind CSS. (https://what-textapp.web.app)
    - Money-Gain: A gaming app with dynamic gameplay and score tracking. (https://money-gainer.vercel.app/)
    - Video Player App: A feature-rich video player with custom controls. (https://66e7e006bc17b4dce8f08c82--video-play-ok.netlify.app/)
+ 
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshorisoh&theme=dark&card_width=950)](https://git.io/streak-stats)
+
+</div>
+
 
 
 <!---
