@@ -10,7 +10,7 @@
  
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshorisoh&theme=dark&card_width=950)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshorisoh&card_width=950)](https://git.io/streak-stats)
 
 </div>
 
